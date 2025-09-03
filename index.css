@@ -367,6 +367,9 @@ body {
   
      gap: 50px;
     }
+    a i:hover{
+      background-color: #FF5252;
+    }
   }
 }
 
